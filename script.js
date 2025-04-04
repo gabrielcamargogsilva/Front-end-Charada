@@ -1,4 +1,4 @@
-const baseUrl = "http://127.0.0.1:5000"
+const baseUrl = "https://projeto-api-charada.vercel.app"
 const aleatorio = "/charadas"
 let respostaCorreta = "";
 
