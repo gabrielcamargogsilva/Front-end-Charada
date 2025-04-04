@@ -11,6 +11,7 @@ Este projeto tem como objetivo proporcionar uma experiência interativa onde o u
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Aprendizados](#aprendizados)
+- [Veja o Projeto](#veja-o-projeto)
 - [Autores](#autores)
 - [Licença](#licença)
 
@@ -33,6 +34,10 @@ Durante o desenvolvimento deste projeto, foram aprofundados conhecimentos em:
 - Criação de interfaces responsivas com **Bootstrap**
 - Manipulação de DOM e eventos para interações com o usuário
 - Organização e estruturação de arquivos frontend em projetos web
+
+## Veja o Projeto
+Acesse a versão online hospedada na **Vercel**:  
+👉 [https://front-end-charada-sigma.vercel.app/](https://front-end-charada-sigma.vercel.app/)
 
 ## Autores
 - Gabriel Camargo - [GitHub](https://github.com/gabrielcamargogsilva) - gabriel.cgsilva.senai@gmail.com
